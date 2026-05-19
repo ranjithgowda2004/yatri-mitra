@@ -1,0 +1,2 @@
+-keep class com.yatrimitra.data.entity.** { *; }
+-keep interface com.yatrimitra.data.dao.** { *; }
