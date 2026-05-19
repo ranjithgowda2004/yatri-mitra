@@ -3,10 +3,29 @@
 A modern Android application built for shared mobility and smart travel management. It helps you find rides, book trips, track journeys, and manage transport services with a clean and efficient system.
 
 🚀 Features
-• 🔐 Secure login and logout system • 👤 User registration and profile management • 🚗 Book and share rides easily • 📍 Route selection and navigation support • 🧭 Live trip tracking and updates • 📜 Ride history and trip records • ⛽ Nearby petrol pumps information • 🚨 Emergency contacts access • 📊 Professional dashboard with travel overview • 🔍 Search and filter rides and routes • 🔔 Notifications for bookings and updates • 🌐 Multi language support • ⚙️ Settings and profile update module • 💾 Offline storage for essential features • ⚡ Fast, smooth, and responsive performance
+• 🔐 Secure login and logout system 
+• 👤 User registration and profile management 
+• 🚗 Book and share rides easily 
+• 📍 Route selection and navigation support 
+• 🧭 Live trip tracking and updates
+• 📜 Ride history and trip records
+• ⛽ Nearby petrol pumps information
+• 🚨 Emergency contacts access
+• 📊 Professional dashboard with travel overview
+• 🔍 Search and filter rides and routes
+• 🔔 Notifications for bookings and updates
+• 🌐 Multi language support
+• ⚙️ Settings and profile update module
+• 💾 Offline storage for essential features
+• ⚡ Fast, smooth, and responsive performance
 
 🛠️ Tech Stack
-• Language: Kotlin • Platform: Android Studio • Database: Room Database • UI: Jetpack Compose with Material Design • Architecture: MVVM with Repository pattern • Dependency Injection: Hilt
+• Language: Kotlin 
+• Platform: Android Studio 
+• Database: Room Database 
+• UI: Jetpack Compose with Material Design
+• Architecture: MVVM with Repository pattern
+• Dependency Injection: Hilt
 
 📂 Project Structure
 com.example.yatrimitrasharedmobilityapp
